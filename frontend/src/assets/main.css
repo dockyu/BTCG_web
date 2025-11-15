@@ -1,0 +1,7 @@
+/* main.css 或 style 樣式表 */
+html, body {
+  margin: 0;
+  padding: 1;
+  height: 100%;
+  overflow: hidden;
+}
