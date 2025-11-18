@@ -20,3 +20,5 @@ npm run dev
 ```
 node app.js
 ```
+
+filieka join
